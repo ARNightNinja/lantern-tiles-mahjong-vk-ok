@@ -1,0 +1,106 @@
+﻿{
+    "version":  1,
+    "game":  "LanternTilesMahjong",
+    "canonicalTitle":  "Lantern Tiles: Mahjong Solitaire",
+    "platform":  "vk-ok",
+    "generatedAt":  "2026-08-07",
+    "icon":  {
+                 "file":  "icon/icon-576x576.png",
+                 "size":  "576x576",
+                 "source":  "icon/icon-1024.png",
+                 "method":  "high-quality opaque resize from approved game-owned master",
+                 "sha256":  "d88c8b4a60527f77be57f6bb7f1b6687c517e35276b11f7157085fb6714d0b88"
+             },
+    "cover":  {
+                  "file":  "cover/cover-1120x630.png",
+                  "size":  "1120x630",
+                  "source":  "covers/cover-1920x1080.png",
+                  "method":  "high-quality opaque resize from approved game-owned 16:9 master",
+                  "sha256":  "b55f88aa9d0d795d821e970fbf0dde9a0fd00dd46208351d567f9ba9517c24e5"
+              },
+    "screenshots":  [
+                        {
+                            "file":  "screenshots/landscape/01-layered-standard-1200x600.png",
+                            "orientation":  "landscape",
+                            "size":  "1200x600",
+                            "scene":  "layered-standard",
+                            "feature":  "layered-board",
+                            "source":  "screenshots/landscape/02-layered-standard.png",
+                            "sourceCapture":  "960x540 CSS px at DPR 2",
+                            "method":  "Playwright live-gameplay source; high-quality contained resize",
+                            "matte":  "#090E21",
+                            "sha256":  "43b7b1d870f3f333e028eca281607c362ba04c99191b93074c6c0cc561088405"
+                        },
+                        {
+                            "file":  "screenshots/landscape/02-infinite-grand-hard-1200x600.png",
+                            "orientation":  "landscape",
+                            "size":  "1200x600",
+                            "scene":  "infinite-grand-hard",
+                            "feature":  "grand-hard-layout",
+                            "source":  "screenshots/landscape/03-infinite-grand-hard.png",
+                            "sourceCapture":  "960x540 CSS px at DPR 2",
+                            "method":  "Playwright live-gameplay source; high-quality contained resize",
+                            "matte":  "#090E21",
+                            "sha256":  "26065a060c4d0431f204c55a35273d7c3b81d63f98ef4b1b2ad505ea51d94ea5"
+                        },
+                        {
+                            "file":  "screenshots/landscape/03-partner-highlight-1200x600.png",
+                            "orientation":  "landscape",
+                            "size":  "1200x600",
+                            "scene":  "partner-highlight",
+                            "feature":  "matching-partner",
+                            "source":  "screenshots/landscape/05-partner-highlight.png",
+                            "sourceCapture":  "960x540 CSS px at DPR 2",
+                            "method":  "Playwright live-gameplay source; high-quality contained resize",
+                            "matte":  "#090E21",
+                            "sha256":  "4fc0098d5b3f745bf089aa1e5a0bde162b5da78720f1abc0c736384864a1371f"
+                        },
+                        {
+                            "file":  "screenshots/portrait/01-layered-standard-600x1200.png",
+                            "orientation":  "portrait",
+                            "size":  "600x1200",
+                            "scene":  "layered-standard",
+                            "feature":  "layered-board",
+                            "source":  "screenshots/portrait/02-layered-standard.png",
+                            "sourceCapture":  "540x960 CSS px at DPR 2",
+                            "method":  "Playwright live-gameplay source; high-quality contained resize",
+                            "matte":  "#090E21",
+                            "sha256":  "a58f665a060efd9e4df72ff3849e84b455ffad8a8d5e280e17c84b47db89ce94"
+                        },
+                        {
+                            "file":  "screenshots/portrait/02-infinite-grand-hard-600x1200.png",
+                            "orientation":  "portrait",
+                            "size":  "600x1200",
+                            "scene":  "infinite-grand-hard",
+                            "feature":  "grand-hard-layout",
+                            "source":  "screenshots/portrait/03-infinite-grand-hard.png",
+                            "sourceCapture":  "540x960 CSS px at DPR 2",
+                            "method":  "Playwright live-gameplay source; high-quality contained resize",
+                            "matte":  "#090E21",
+                            "sha256":  "a9b289ad80694a98e49add05d97a24e040b3c032762936b324dfb44b5ea45aba"
+                        },
+                        {
+                            "file":  "screenshots/portrait/03-partner-highlight-600x1200.png",
+                            "orientation":  "portrait",
+                            "size":  "600x1200",
+                            "scene":  "partner-highlight",
+                            "feature":  "matching-partner",
+                            "source":  "screenshots/portrait/05-partner-highlight.png",
+                            "sourceCapture":  "540x960 CSS px at DPR 2",
+                            "method":  "Playwright live-gameplay source; high-quality contained resize",
+                            "matte":  "#090E21",
+                            "sha256":  "511b7507bc5efb46b8ddf50ff51d43aa22350455bd942a057c6ea0f5ae4d4847"
+                        }
+                    ],
+    "selection":  {
+                      "landscapeCount":  3,
+                      "portraitCount":  3,
+                      "rationale":  "Core loop plus materially distinct advanced modes or interaction states. Sparse tutorials and near-duplicate boards were excluded."
+                  },
+    "notes":  [
+                  "Universal listing art is text-free and language-free.",
+                  "Screenshots use real deterministic gameplay captures with native numeric HUD structure.",
+                  "The full source frame is preserved; narrow matte extensions use the game-owned background palette so no HUD, board, or controls are clipped.",
+                  "All outputs are opaque RGB PNG files."
+              ]
+}

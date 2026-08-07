@@ -1,0 +1,172 @@
+{
+  "formatVersion": 1,
+  "platform": "vk-ok",
+  "slug": "LanternTilesMahjong",
+  "files": [
+    {
+      "path": "assets/FONT_LICENSES-CxyhaAH9.txt",
+      "bytes": 22391,
+      "sha256": "cf183f3a0362543cdfcbda07e5706dff32ed9d2b477c18e96412b2429c47d03c"
+    },
+    {
+      "path": "assets/hint-lantern-p0BizKcu.png",
+      "bytes": 22221,
+      "sha256": "f3cd2c72d407b026b5e52ffd5c72c8b5a3920c4d4c97d6916b943fdf1c7422c6"
+    },
+    {
+      "path": "assets/index-DjDa1rxU.css",
+      "bytes": 213990,
+      "sha256": "27060d2d44017d5ff8682af068fe22af13657f50f3405e4f2d4a5e075f85a4ff"
+    },
+    {
+      "path": "assets/index-b93NDpyH.js",
+      "bytes": 431725,
+      "sha256": "2633d4728a0461061447aec6b8e8b42ebd1aba6b4e667e4fbcb11c36fb914ab0"
+    },
+    {
+      "path": "assets/inter-002-BXMdY9vc.woff2",
+      "bytes": 17356,
+      "sha256": "0bf6bb8e72fccdbdd9fe96ba67dbd07fd979e14c77ae3a564cc0cb8c44065564"
+    },
+    {
+      "path": "assets/inter-003-DexZPImm.woff2",
+      "bytes": 5680,
+      "sha256": "11d1ad9d39dc77f060ab2e6f71c83364f5527102f245f4832d2987a86a70b1e5"
+    },
+    {
+      "path": "assets/inter-004-DQe-eXIf.woff2",
+      "bytes": 5744,
+      "sha256": "e506a50e8e6e7d99ae3247a8150414beb076f6d6189b9ca3ac7860ce0a45be4d"
+    },
+    {
+      "path": "assets/inter-005-kohWINlo.woff2",
+      "bytes": 31644,
+      "sha256": "fd20c07c09fa4e1073f5a793369fd4208f05cea19f746271c00cee0b32781963"
+    },
+    {
+      "path": "assets/lantern-seal-DdBFsaBd.webp",
+      "bytes": 24242,
+      "sha256": "ae432047fd196d9efb943b78ecb742d3680077ffec71387f45dbcd3a02ed2629"
+    },
+    {
+      "path": "assets/literata-002-CZLeGCvg.woff2",
+      "bytes": 26508,
+      "sha256": "e0ee248632472ba9e450c320763bfb18aa293530c245326bec2c1f3f94cc5536"
+    },
+    {
+      "path": "assets/literata-003-RObadtr7.woff2",
+      "bytes": 6328,
+      "sha256": "77a31c7f7938fe6bf368e446ffe8ac261de8b4a368ad02e5b5180ffe2c9f9709"
+    },
+    {
+      "path": "assets/literata-004-D7T2pag4.woff2",
+      "bytes": 6920,
+      "sha256": "4f923dc83a122af0718ad1f48151149d0f9e444e4f2538a76aaafef22e895acb"
+    },
+    {
+      "path": "assets/literata-005-kodt1jKa.woff2",
+      "bytes": 39424,
+      "sha256": "f6c062830c8fcadfab1bfd59438a4887ab41290fb1484314d802221ccb33664e"
+    },
+    {
+      "path": "assets/moonlit-table-B3Ji2f8z.webp",
+      "bytes": 85264,
+      "sha256": "b662b94047cf15aae65a13c82638141d2c952abcf409636b4897cb20e724a7bc"
+    },
+    {
+      "path": "assets/noto-sans-jp-030-BSgi9SsY.woff2",
+      "bytes": 4296,
+      "sha256": "b9ef02ce08533b8ff718b69fb90d602af916ba733d66abdc9bf32683510b6941"
+    },
+    {
+      "path": "assets/noto-sans-jp-034-D8E81Uzb.woff2",
+      "bytes": 4952,
+      "sha256": "fbc70d02f545f57138a16d67c9c7190f56fafa9fdbe234ecca62a9f61c70e6cf"
+    },
+    {
+      "path": "assets/noto-sans-jp-035-mLGHcYRe.woff2",
+      "bytes": 14444,
+      "sha256": "51092d374f833cd752f04000aa8b000fc7fc99bb862b341aeef609cc767a8d9d"
+    },
+    {
+      "path": "assets/noto-sans-jp-036-BDrYtmoU.woff2",
+      "bytes": 38376,
+      "sha256": "bff6425a65ee7b795737e7602108c7aa9a35d4d2315e6d9a320bfc516b830170"
+    },
+    {
+      "path": "assets/noto-sans-jp-039-BIb2UWn3.woff2",
+      "bytes": 16540,
+      "sha256": "693d29180f0df2b80f203bc5cbaeced123b687a65d27bae01253bc2fc54c82b8"
+    },
+    {
+      "path": "assets/noto-sans-kr-018-xqJvqp-8.woff2",
+      "bytes": 5252,
+      "sha256": "1eb7fff15da66a504aad87fe28b8a70b4344119999d6753e01e3745f2fbbc88e"
+    },
+    {
+      "path": "assets/noto-sans-kr-019-7I_hOlXK.woff2",
+      "bytes": 7036,
+      "sha256": "17f62fca506477302657d93b821dcaa328042e12dba1732f532895e175187351"
+    },
+    {
+      "path": "assets/noto-sans-kr-020-DLLav85L.woff2",
+      "bytes": 10032,
+      "sha256": "ee227a9c45395f3e44c327c7e4153c3a35f50f04d1dce9fed9283dd2a96676b2"
+    },
+    {
+      "path": "assets/noto-sans-kr-021-BDNfbz6D.woff2",
+      "bytes": 15544,
+      "sha256": "92108ca11dabb51908190a0f217d6e85c746c0d9553b1f3560ca5f76b647babd"
+    },
+    {
+      "path": "assets/noto-sans-kr-024-N-hGpPMD.woff2",
+      "bytes": 17704,
+      "sha256": "483b6670c0adf031a3a362e8220427fc4667e2029199862d055a8568005876bb"
+    },
+    {
+      "path": "assets/noto-sans-sc-017-DBUfoQH3.woff2",
+      "bytes": 4812,
+      "sha256": "9ffca00580ac46880d0a89610abaab56b7d78264a983bc92e593071cde71e5a7"
+    },
+    {
+      "path": "assets/noto-sans-sc-018-D7tf_a99.woff2",
+      "bytes": 4396,
+      "sha256": "5018a70a9765019e5444e65a773d41e2eeedd64e4047bf2111c626f550302f20"
+    },
+    {
+      "path": "assets/noto-sans-sc-019-B2Augkfh.woff2",
+      "bytes": 10128,
+      "sha256": "fe711689061ce2e1e67d3358edddb4502402f2e683d3d9f7277c4cf2eb9b89c3"
+    },
+    {
+      "path": "assets/noto-sans-sc-020-Ck2bh9AU.woff2",
+      "bytes": 13656,
+      "sha256": "5292df488db581e13097ec44457c2b35c19650e5be6b9a8026ddebcb1f1f02bf"
+    },
+    {
+      "path": "assets/noto-sans-sc-021-CnZKOBuA.woff2",
+      "bytes": 12840,
+      "sha256": "0c5c44e1d54be4040c1718fa2406e02cdf4b1a91316d5830cba97242d73a79ab"
+    },
+    {
+      "path": "assets/noto-sans-sc-022-XFC7VrNR.woff2",
+      "bytes": 15612,
+      "sha256": "581b85b150db6abae956cca75867e71ed5e357aaa2fe2fc2a1c3265b80731656"
+    },
+    {
+      "path": "assets/noto-sans-sc-025-BuUlmknH.woff2",
+      "bytes": 16468,
+      "sha256": "27e4cbada318d5fb4b141e49cc2ff534ac6e921e153bf999993ab669da939e6e"
+    },
+    {
+      "path": "assets/tutorial-pointer-CdtRSX9t.png",
+      "bytes": 32384,
+      "sha256": "7a0edeebfb2582d15d3f3b26c99e27325f6d47e9ad66e426cb5b85ed83347360"
+    },
+    {
+      "path": "index.html",
+      "bytes": 724,
+      "sha256": "ff29a5cf91853b68efdf943909b9a9ba8cf21f3dcc5da3d5f28645a4ae170042"
+    }
+  ]
+}

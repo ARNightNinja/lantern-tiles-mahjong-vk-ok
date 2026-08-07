@@ -19,9 +19,9 @@
       "sha256": "27060d2d44017d5ff8682af068fe22af13657f50f3405e4f2d4a5e075f85a4ff"
     },
     {
-      "path": "assets/index-b93NDpyH.js",
-      "bytes": 431725,
-      "sha256": "2633d4728a0461061447aec6b8e8b42ebd1aba6b4e667e4fbcb11c36fb914ab0"
+      "path": "assets/index-vs8mrbtr.js",
+      "bytes": 387082,
+      "sha256": "830304265b6f65a4b11b0528df3774480ca1d49fd7d930feebb11eacf27f777e"
     },
     {
       "path": "assets/inter-002-BXMdY9vc.woff2",
@@ -165,8 +165,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 724,
-      "sha256": "ff29a5cf91853b68efdf943909b9a9ba8cf21f3dcc5da3d5f28645a4ae170042"
+      "bytes": 811,
+      "sha256": "174b26de689dbad2a7ed91d5c7b5d3270fb1d2e9dea53b053274ef893b15e515"
     }
   ]
 }
